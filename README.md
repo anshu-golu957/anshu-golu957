@@ -1,2 +1,4 @@
-> vibe tinkering
-> exploring ideas, building freely, learning by doing
+- vibe tinkering
+- exploring ideas
+- building freely
+- learning by doing
